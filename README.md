@@ -15,7 +15,6 @@ The analysis describes emergency department presentations and their composition,
 - `figures/`: exported analytical charts. Raw-data plots are embedded in the notebook and report appendices.
 - `tables/`: numerical results explicitly cited by the notebook. Additional diagnostic and sensitivity tables are regenerated when it runs.
 - `requirements.txt`: package versions used for the analysis.
-- `AI_USAGE.md`: AI assistance declaration and retained history.
 
 ## Reproducing the analysis
 
