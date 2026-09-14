@@ -1,7 +1,16 @@
 # NEISS age patterns in sport-associated ED presentations
 
-DSM050 Data Visualisation coursework, University of London. Study window: 2016–2025.
-The analysis describes emergency department presentations and their composition, not risk or incidence.
+This University of London DSM050 Data Visualisation project examines how sport- and recreation-associated injuries presenting to US emergency departments vary across the lifespan. It uses National Electronic Injury Surveillance System (NEISS) public-use data from 2016–2025 to investigate five questions about age and recorded sex, injured body regions, diagnosis groups, activity profiles and care outcomes. The prepared data contain 659,637 Core presentations associated with sport and exercise and 978,847 presentations in an Extended cohort that includes broader recreation.
+
+The notebook shows the process from raw-data exploration and cleaning through survey-weighted analysis, visualisation and sensitivity checks. The report explains how cohort definitions, age coding, survey weights and reliability screening affect the findings. These results describe emergency department presentations and their composition. NEISS does not provide participation denominators, so the analysis cannot estimate injury risk or incidence, and product involvement does not establish active participation in sport.
+
+## Key findings
+
+- **Presentations peak in adolescence.** Core presentation estimates peak at age 14 and fall approximately ninefold by age 40. The male and female peaks occur at ages 15 and 14 respectively.
+- **The anatomical mix changes with age.** Head and face injuries account for 52% of Core presentations before age five and 13% at ages 45–54. Trunk and spine injuries rise from 6% at ages 5–9 to 32% at age 75 and over.
+- **Diagnosis patterns shift across the lifespan.** Strain and sprain reach 29% at ages 15–17 and fall below 10% in the oldest age group. Fracture and internal injury become more prominent after mid-life.
+- **Activities have distinct age profiles.** Team sports concentrate around adolescence, while exercise and fitness, weight training and fishing have broader supported age profiles. Only 163 of 255 selected activity-age cells pass the reliability screen, limiting comparisons where data are sparse.
+- **Care escalation increases across supported adolescent and adult groups.** The share transferred, admitted, observed or dying in the emergency department rises from 2.0% at ages 10–14 to 13.7% at ages 55–64. Escalation estimates for ages 0–4, 65–74 and 75+ fail the working screen and are omitted from the plotted series. Care outcomes also depend on admission practice and are not a direct severity measure.
 
 ## Submission contents
 
