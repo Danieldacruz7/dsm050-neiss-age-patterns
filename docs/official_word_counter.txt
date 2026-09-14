@@ -1,0 +1,39 @@
+%%js
+
+// Run this cell to update your word count.
+
+function wordcount() {
+    let wordCount = 0
+    let extraCount = 0
+    let mainBody = true
+
+    let cells = Jupyter.notebook.get_cells()
+    cells.forEach((cell) => {
+        if (cell.cell_type == 'markdown') {
+            let text = cell.get_text()
+            // Stop counting as main body when get to References or Appendices.
+            if (text.startsWith('## References') ||
+                text.startsWith('## Appendices')) {
+                mainBody = false
+            }
+            if (text.startsWith('## Word Count')) {
+                text = ''
+            }
+            if (text) {
+                let words = text.toLowerCase().match(/\b[a-z\d]+\b/g)
+                if (words) {
+                    let cellCount = words.length
+                    if (mainBody) {
+                        wordCount += cellCount
+                    } else {
+                        extraCount += cellCount
+                    }
+                }
+            }
+        }
+    })
+    return [wordCount, extraCount]
+}
+
+let wc = wordcount()
+element.append(`Main word count: ${wc[0]} (References and appendices word count: ${wc[1]})`)

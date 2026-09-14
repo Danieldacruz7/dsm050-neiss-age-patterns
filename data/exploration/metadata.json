@@ -1,0 +1,51 @@
+{
+  "created_at_utc": "2026-09-13T16:27:45.357801+00:00",
+  "scope": "All structurally readable annual raw records, before cohort cleaning",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "source_hashes": {
+    "neiss2016.tsv": "297d72d196d05c754d036bd57cb48917e275c51b411d5947ee07643135d1c83f",
+    "neiss2017.tsv": "66b5eb5874df26804c99c42788740e1f55415b69fa196901647db7211e484c7b",
+    "neiss2018.tsv": "15510d53e30aa807de29d48e2d0db97d153c72f2f61dc8180effa1ca4a40c9ed",
+    "neiss2019.tsv": "c0db17093ad653cab8b0a17030f69b975675d96bd91c07e11b9cbeb1eeb33349",
+    "neiss2020.tsv": "3ac249c2be3fef79e02e164c390218246f7e5eba3664716908d06e70337ab26b",
+    "neiss2021.tsv": "f11e98263980e9e60759edd55150d971932762b2be81735269f2a8e425703977",
+    "neiss2022.tsv": "0787170deac5a9f03baf00652a1ecb038160276f1c62e2a58088936db6f2c571",
+    "neiss2023.tsv": "d913b5c107e68ed1c9698cf6ccf3e3b1d87e775857ac18f8ef8dbaf9316b1b5e",
+    "neiss2024.tsv": "2583a8d6b1f65525109c0dff9bff1c9dba930697b7e5e10094eee390f1b50dde",
+    "neiss2025.tsv": "eb649902a672228f8b3f7eddff9fd31fc6de6a549308757e39c1a936ced702a8"
+  },
+  "parser_helper_sha256": "ff9835977a9c66dd9e5d085ba7078da8848eea3aa25b6faecc40a9bdeee405c3",
+  "cache_helper_sha256": "07c4b37a910332befa60fc3cbd1398299e5af56c00767bf6efae36419ba600f8",
+  "calculation_sha256": "708d05901ff0ab6e4553eacc1836e5d7d12e3c9cd3f99f2162e5cae34bd86cb7",
+  "dictionary_hashes": {
+    "body_parts.csv": "298925c6e264490935aa59dd0d88790df9f80acf19f252e20f27dedd62bd0b97",
+    "body_regions.csv": "f3f2af6f5f3314072836765af80cac181d1e2f19e720f3b91c81feac1cfb8a19",
+    "cluster_age_bands.csv": "a12be9052476289cf1ce9ef3339171a649b7fa8a3476cd1c696a9995d996cad7",
+    "cluster_body_regions.csv": "dd2cee30b4fdfd8fe16f287238fea4ad01b250de59c36434682078474a827a3d",
+    "diagnoses.csv": "2805663fc24fc8dcd32d0eb88f74e3d0ae09cb992835790a43952cbdeac2a865",
+    "diagnosis_families.csv": "4f5642f119b8c5ab5e800d1da146bb6b39fd2b33820ea3c383aaccf7409e2935",
+    "dispositions.csv": "54b25ce55a946048ace7446c4cf087e9430738476d3802e5e3ba3f8415bcc68e",
+    "product_classification.csv": "6cf8a6fa581d66dbd047f5746bc584d8cd304ec0496d9482a8311d3943cf45ac",
+    "product_codes.csv": "e254780b549f52fdd6c8ddf9eb39cfaa5b080b9f4179983f99cc7f626ea140ed",
+    "sexes.csv": "62a502b96fd65a6a220f8b3abf4ad0aaf63ad74a88c138b0776cfb1baaee238c"
+  },
+  "tables": {
+    "annual": "c9bb23a8bdb44a1eeab7f78e0cb811bead50b8798e98d6bd774b18f389ce3c50",
+    "fields": "657b60a1bf2e806479ac7b1863e983a1f3e35b32912882a8c9c1787283015404",
+    "codes": "064821a00578e2c5645c7f077f28dc6025b087524db5cbb4e57c5ba0e8e9ddde",
+    "weights": "f10d86b33e9f92086dd5fbea375875ebcd9a99a841cfaba17d32d1e55bca74e7",
+    "age_counts": "b0462e8b598a72fd435f2afddb5040f2d7adb0970a6731aef6e4d7d3bd7a997a",
+    "flow": "ef13211e4e0238da953ce6a0f85ec0dac4982497f28537f395c2629f7f67ee2f"
+  }
+}

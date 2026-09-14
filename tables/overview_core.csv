@@ -1,0 +1,2 @@
+All,n,estimate,se_bound,cv_bound,estimate_rounded,reportable,reason,years
+All,659637,2334700.0,244205.75586569784,0.10459865156775013,2334700.0,True,passes conservative screen,10

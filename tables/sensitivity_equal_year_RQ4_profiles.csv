@@ -1,0 +1,256 @@
+Activity,Profile_Age,percent,reportable,observed_years,reason
+Baseball/softball,0-4,1.9,True,10,all annual percentages pass
+Baseball/softball,10-14,30.8,True,10,all annual percentages pass
+Baseball/softball,15-19,24.5,True,10,all annual percentages pass
+Baseball/softball,20-24,6.0,True,10,all annual percentages pass
+Baseball/softball,25-29,4.7,True,10,all annual percentages pass
+Baseball/softball,30-34,5.1,True,10,all annual percentages pass
+Baseball/softball,35-39,4.3,True,10,all annual percentages pass
+Baseball/softball,40-44,3.2,True,10,all annual percentages pass
+Baseball/softball,45-49,2.4,True,10,all annual percentages pass
+Baseball/softball,5-9,10.5,True,10,all annual percentages pass
+Baseball/softball,50-54,,False,10,at least one annual percentage fails
+Baseball/softball,55-59,,False,10,at least one annual percentage fails
+Baseball/softball,60-64,,False,10,at least one annual percentage fails
+Baseball/softball,65-69,,False,10,at least one annual percentage fails
+Baseball/softball,70-74,,False,10,at least one annual percentage fails
+Baseball/softball,75-79,,False,10,at least one annual percentage fails
+Baseball/softball,80+,,False,10,at least one annual percentage fails
+Basketball,0-4,0.4,True,10,all annual percentages pass
+Basketball,10-14,29.3,True,10,all annual percentages pass
+Basketball,15-19,33.9,True,10,all annual percentages pass
+Basketball,20-24,12.3,True,10,all annual percentages pass
+Basketball,25-29,6.7,True,10,all annual percentages pass
+Basketball,30-34,4.5,True,10,all annual percentages pass
+Basketball,35-39,3.1,True,10,all annual percentages pass
+Basketball,40-44,1.9,True,10,all annual percentages pass
+Basketball,45-49,1.3,True,10,all annual percentages pass
+Basketball,5-9,4.5,True,10,all annual percentages pass
+Basketball,50-54,0.8,True,10,all annual percentages pass
+Basketball,55-59,0.5,True,10,all annual percentages pass
+Basketball,60-64,,False,10,at least one annual percentage fails
+Basketball,65-69,,False,10,at least one annual percentage fails
+Basketball,70-74,,False,10,at least one annual percentage fails
+Basketball,75-79,,False,10,at least one annual percentage fails
+Basketball,80+,,False,10,at least one annual percentage fails
+Combat sports,0-4,,False,10,at least one annual percentage fails
+Combat sports,10-14,21.8,True,10,all annual percentages pass
+Combat sports,15-19,32.5,True,10,all annual percentages pass
+Combat sports,20-24,11.3,True,10,all annual percentages pass
+Combat sports,25-29,8.9,True,10,all annual percentages pass
+Combat sports,30-34,6.4,True,10,all annual percentages pass
+Combat sports,35-39,4.5,True,10,all annual percentages pass
+Combat sports,40-44,3.1,True,10,all annual percentages pass
+Combat sports,45-49,,False,10,at least one annual percentage fails
+Combat sports,5-9,5.7,True,10,all annual percentages pass
+Combat sports,50-54,,False,10,at least one annual percentage fails
+Combat sports,55-59,,False,10,at least one annual percentage fails
+Combat sports,60-64,,False,10,at least one annual percentage fails
+Combat sports,65-69,,False,10,at least one annual percentage fails
+Combat sports,70-74,,False,10,at least one annual percentage fails
+Combat sports,75-79,,False,10,at least one annual percentage fails
+Combat sports,80+,,False,10,at least one annual percentage fails
+Exercise/fitness,0-4,1.3,True,10,all annual percentages pass
+Exercise/fitness,10-14,6.0,True,10,all annual percentages pass
+Exercise/fitness,15-19,7.7,True,10,all annual percentages pass
+Exercise/fitness,20-24,8.3,True,10,all annual percentages pass
+Exercise/fitness,25-29,8.2,True,10,all annual percentages pass
+Exercise/fitness,30-34,7.8,True,10,all annual percentages pass
+Exercise/fitness,35-39,7.2,True,10,all annual percentages pass
+Exercise/fitness,40-44,6.3,True,10,all annual percentages pass
+Exercise/fitness,45-49,5.9,True,10,all annual percentages pass
+Exercise/fitness,5-9,3.0,True,10,all annual percentages pass
+Exercise/fitness,50-54,6.0,True,10,all annual percentages pass
+Exercise/fitness,55-59,6.0,True,10,all annual percentages pass
+Exercise/fitness,60-64,5.7,True,10,all annual percentages pass
+Exercise/fitness,65-69,6.0,True,10,all annual percentages pass
+Exercise/fitness,70-74,5.2,True,10,all annual percentages pass
+Exercise/fitness,75-79,3.9,True,10,all annual percentages pass
+Exercise/fitness,80+,5.4,True,10,all annual percentages pass
+Fishing,0-4,2.8,True,10,all annual percentages pass
+Fishing,10-14,11.8,True,10,all annual percentages pass
+Fishing,15-19,8.8,True,10,all annual percentages pass
+Fishing,20-24,6.1,True,10,all annual percentages pass
+Fishing,25-29,5.7,True,10,all annual percentages pass
+Fishing,30-34,6.1,True,10,all annual percentages pass
+Fishing,35-39,6.7,True,10,all annual percentages pass
+Fishing,40-44,5.7,True,10,all annual percentages pass
+Fishing,45-49,6.5,True,10,all annual percentages pass
+Fishing,5-9,7.0,True,10,all annual percentages pass
+Fishing,50-54,6.4,True,10,all annual percentages pass
+Fishing,55-59,7.0,True,10,all annual percentages pass
+Fishing,60-64,6.0,True,10,all annual percentages pass
+Fishing,65-69,5.3,True,10,all annual percentages pass
+Fishing,70-74,4.0,True,10,all annual percentages pass
+Fishing,75-79,,False,10,at least one annual percentage fails
+Fishing,80+,,False,10,at least one annual percentage fails
+Football,0-4,,False,10,at least one annual percentage fails
+Football,10-14,43.1,True,10,all annual percentages pass
+Football,15-19,34.6,True,10,all annual percentages pass
+Football,20-24,5.0,True,10,all annual percentages pass
+Football,25-29,3.1,True,10,all annual percentages pass
+Football,30-34,2.0,True,10,all annual percentages pass
+Football,35-39,1.3,True,10,all annual percentages pass
+Football,40-44,,False,10,at least one annual percentage fails
+Football,45-49,,False,10,at least one annual percentage fails
+Football,5-9,8.3,True,10,all annual percentages pass
+Football,50-54,,False,10,at least one annual percentage fails
+Football,55-59,,False,10,at least one annual percentage fails
+Football,60-64,,False,10,at least one annual percentage fails
+Football,65-69,,False,10,at least one annual percentage fails
+Football,70-74,,False,10,at least one annual percentage fails
+Football,75-79,,False,10,at least one annual percentage fails
+Football,80+,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,0-4,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,10-14,39.7,True,10,all annual percentages pass
+Gymnastics/cheerleading,15-19,28.6,True,10,all annual percentages pass
+Gymnastics/cheerleading,20-24,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,25-29,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,30-34,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,35-39,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,40-44,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,45-49,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,5-9,23.3,True,10,all annual percentages pass
+Gymnastics/cheerleading,50-54,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,55-59,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,60-64,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,65-69,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,70-74,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,75-79,,False,10,at least one annual percentage fails
+Gymnastics/cheerleading,80+,,False,10,at least one annual percentage fails
+Hockey,0-4,,False,10,at least one annual percentage fails
+Hockey,10-14,26.6,True,10,all annual percentages pass
+Hockey,15-19,30.9,True,10,all annual percentages pass
+Hockey,20-24,,False,10,at least one annual percentage fails
+Hockey,25-29,,False,10,at least one annual percentage fails
+Hockey,30-34,,False,10,at least one annual percentage fails
+Hockey,35-39,,False,10,at least one annual percentage fails
+Hockey,40-44,,False,10,at least one annual percentage fails
+Hockey,45-49,,False,10,at least one annual percentage fails
+Hockey,5-9,,False,10,at least one annual percentage fails
+Hockey,50-54,,False,10,at least one annual percentage fails
+Hockey,55-59,,False,10,at least one annual percentage fails
+Hockey,60-64,,False,10,at least one annual percentage fails
+Hockey,65-69,,False,10,at least one annual percentage fails
+Hockey,70-74,,False,10,at least one annual percentage fails
+Hockey,75-79,,False,10,at least one annual percentage fails
+Hockey,80+,,False,10,at least one annual percentage fails
+Other ball sports,0-4,8.0,True,10,all annual percentages pass
+Other ball sports,10-14,26.1,True,10,all annual percentages pass
+Other ball sports,15-19,9.1,True,10,all annual percentages pass
+Other ball sports,20-24,3.5,True,10,all annual percentages pass
+Other ball sports,25-29,,False,10,at least one annual percentage fails
+Other ball sports,30-34,,False,10,at least one annual percentage fails
+Other ball sports,35-39,,False,10,at least one annual percentage fails
+Other ball sports,40-44,,False,10,at least one annual percentage fails
+Other ball sports,45-49,,False,10,at least one annual percentage fails
+Other ball sports,5-9,14.9,True,10,all annual percentages pass
+Other ball sports,50-54,,False,10,at least one annual percentage fails
+Other ball sports,55-59,,False,10,at least one annual percentage fails
+Other ball sports,60-64,,False,10,at least one annual percentage fails
+Other ball sports,65-69,,False,10,at least one annual percentage fails
+Other ball sports,70-74,,False,10,at least one annual percentage fails
+Other ball sports,75-79,,False,10,at least one annual percentage fails
+Other ball sports,80+,,False,10,at least one annual percentage fails
+Other sport/recreation,0-4,,False,10,at least one annual percentage fails
+Other sport/recreation,10-14,35.6,True,10,all annual percentages pass
+Other sport/recreation,15-19,22.9,True,10,all annual percentages pass
+Other sport/recreation,20-24,9.0,True,10,all annual percentages pass
+Other sport/recreation,25-29,4.6,True,10,all annual percentages pass
+Other sport/recreation,30-34,,False,10,at least one annual percentage fails
+Other sport/recreation,35-39,,False,10,at least one annual percentage fails
+Other sport/recreation,40-44,,False,10,at least one annual percentage fails
+Other sport/recreation,45-49,,False,10,at least one annual percentage fails
+Other sport/recreation,5-9,,False,10,at least one annual percentage fails
+Other sport/recreation,50-54,,False,10,at least one annual percentage fails
+Other sport/recreation,55-59,,False,10,at least one annual percentage fails
+Other sport/recreation,60-64,,False,10,at least one annual percentage fails
+Other sport/recreation,65-69,,False,10,at least one annual percentage fails
+Other sport/recreation,70-74,,False,10,at least one annual percentage fails
+Other sport/recreation,75-79,,False,10,at least one annual percentage fails
+Other sport/recreation,80+,,False,10,at least one annual percentage fails
+Snow sports,0-4,,False,10,at least one annual percentage fails
+Snow sports,10-14,,False,10,at least one annual percentage fails
+Snow sports,15-19,18.4,True,10,all annual percentages pass
+Snow sports,20-24,,False,10,at least one annual percentage fails
+Snow sports,25-29,,False,10,at least one annual percentage fails
+Snow sports,30-34,,False,10,at least one annual percentage fails
+Snow sports,35-39,,False,10,at least one annual percentage fails
+Snow sports,40-44,,False,10,at least one annual percentage fails
+Snow sports,45-49,,False,10,at least one annual percentage fails
+Snow sports,5-9,,False,10,at least one annual percentage fails
+Snow sports,50-54,,False,10,at least one annual percentage fails
+Snow sports,55-59,,False,10,at least one annual percentage fails
+Snow sports,60-64,,False,10,at least one annual percentage fails
+Snow sports,65-69,,False,10,at least one annual percentage fails
+Snow sports,70-74,,False,10,at least one annual percentage fails
+Snow sports,75-79,,False,10,at least one annual percentage fails
+Snow sports,80+,,False,10,at least one annual percentage fails
+Soccer,0-4,,False,10,at least one annual percentage fails
+Soccer,10-14,34.6,True,10,all annual percentages pass
+Soccer,15-19,29.2,True,10,all annual percentages pass
+Soccer,20-24,8.6,True,10,all annual percentages pass
+Soccer,25-29,4.9,True,10,all annual percentages pass
+Soccer,30-34,3.9,True,10,all annual percentages pass
+Soccer,35-39,2.7,True,10,all annual percentages pass
+Soccer,40-44,2.0,True,10,all annual percentages pass
+Soccer,45-49,1.2,True,10,all annual percentages pass
+Soccer,5-9,10.4,True,10,all annual percentages pass
+Soccer,50-54,,False,10,at least one annual percentage fails
+Soccer,55-59,,False,10,at least one annual percentage fails
+Soccer,60-64,,False,10,at least one annual percentage fails
+Soccer,65-69,,False,10,at least one annual percentage fails
+Soccer,70-74,,False,10,at least one annual percentage fails
+Soccer,75-79,,False,10,at least one annual percentage fails
+Soccer,80+,,False,10,at least one annual percentage fails
+Swimming/diving,0-4,,False,10,at least one annual percentage fails
+Swimming/diving,10-14,18.8,True,10,all annual percentages pass
+Swimming/diving,15-19,9.6,True,10,all annual percentages pass
+Swimming/diving,20-24,5.6,True,10,all annual percentages pass
+Swimming/diving,25-29,4.4,True,10,all annual percentages pass
+Swimming/diving,30-34,4.1,True,10,all annual percentages pass
+Swimming/diving,35-39,3.8,True,10,all annual percentages pass
+Swimming/diving,40-44,3.3,True,10,all annual percentages pass
+Swimming/diving,45-49,2.7,True,10,all annual percentages pass
+Swimming/diving,5-9,,False,10,at least one annual percentage fails
+Swimming/diving,50-54,2.7,True,10,all annual percentages pass
+Swimming/diving,55-59,2.6,True,10,all annual percentages pass
+Swimming/diving,60-64,2.4,True,10,all annual percentages pass
+Swimming/diving,65-69,2.2,True,10,all annual percentages pass
+Swimming/diving,70-74,,False,10,at least one annual percentage fails
+Swimming/diving,75-79,,False,10,at least one annual percentage fails
+Swimming/diving,80+,,False,10,at least one annual percentage fails
+Volleyball,0-4,,False,10,at least one annual percentage fails
+Volleyball,10-14,32.9,True,10,all annual percentages pass
+Volleyball,15-19,38.3,True,10,all annual percentages pass
+Volleyball,20-24,,False,10,at least one annual percentage fails
+Volleyball,25-29,4.7,True,10,all annual percentages pass
+Volleyball,30-34,,False,10,at least one annual percentage fails
+Volleyball,35-39,,False,10,at least one annual percentage fails
+Volleyball,40-44,,False,10,at least one annual percentage fails
+Volleyball,45-49,,False,10,at least one annual percentage fails
+Volleyball,5-9,,False,10,at least one annual percentage fails
+Volleyball,50-54,,False,10,at least one annual percentage fails
+Volleyball,55-59,,False,10,at least one annual percentage fails
+Volleyball,60-64,,False,10,at least one annual percentage fails
+Volleyball,65-69,,False,10,at least one annual percentage fails
+Volleyball,70-74,,False,10,at least one annual percentage fails
+Volleyball,75-79,,False,10,at least one annual percentage fails
+Volleyball,80+,,False,10,at least one annual percentage fails
+Weight training,0-4,2.5,True,10,all annual percentages pass
+Weight training,10-14,5.1,True,10,all annual percentages pass
+Weight training,15-19,18.8,True,10,all annual percentages pass
+Weight training,20-24,13.7,True,10,all annual percentages pass
+Weight training,25-29,11.7,True,10,all annual percentages pass
+Weight training,30-34,10.2,True,10,all annual percentages pass
+Weight training,35-39,8.5,True,10,all annual percentages pass
+Weight training,40-44,6.4,True,10,all annual percentages pass
+Weight training,45-49,5.1,True,10,all annual percentages pass
+Weight training,5-9,2.0,True,10,all annual percentages pass
+Weight training,50-54,4.6,True,10,all annual percentages pass
+Weight training,55-59,3.5,True,10,all annual percentages pass
+Weight training,60-64,2.4,True,10,all annual percentages pass
+Weight training,65-69,,False,10,at least one annual percentage fails
+Weight training,70-74,,False,10,at least one annual percentage fails
+Weight training,75-79,,False,10,at least one annual percentage fails
+Weight training,80+,,False,10,at least one annual percentage fails

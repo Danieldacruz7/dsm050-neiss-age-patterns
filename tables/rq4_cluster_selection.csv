@@ -1,0 +1,16 @@
+Activity,all_age_features_pass,all_anatomy_features_pass,included
+Basketball,True,True,True
+Exercise/fitness,True,True,True
+Football,True,True,True
+Soccer,True,True,True
+Swimming/diving,True,True,True
+Baseball/softball,True,True,True
+Weight training,True,True,True
+Other sport/recreation,True,True,True
+Combat sports,True,False,False
+Other ball sports,True,True,True
+Gymnastics/cheerleading,False,False,False
+Volleyball,True,False,False
+Snow sports,False,False,False
+Hockey,True,False,False
+Fishing,True,True,True

@@ -1,0 +1,11 @@
+.venv/
+.wordcount-venv/
+.runtime/
+__pycache__/
+__pycache__/
+.ipynb_checkpoints/
+data/source/*.tsv
+data/source/*.txt
+.DS_Store
+Thumbs.db
+# Prepared cohorts, design roster, manifests and notebook must remain tracked.

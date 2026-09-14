@@ -1,0 +1,15 @@
+body_region,cluster_region,rationale
+Head/face,Head/neck,Analyst grouping for coarse exploratory anatomy profiles
+Neck,Head/neck,Analyst grouping for coarse exploratory anatomy profiles
+Shoulder/upper arm,Upper limb,Analyst grouping for coarse exploratory anatomy profiles
+Elbow/forearm,Upper limb,Analyst grouping for coarse exploratory anatomy profiles
+Wrist/hand,Upper limb,Analyst grouping for coarse exploratory anatomy profiles
+Trunk/spine,Trunk/spine,Retains trunk grouping from reviewed dictionary
+Hip/thigh,Lower limb,Analyst grouping for coarse exploratory anatomy profiles
+Knee,Lower limb,Analyst grouping for coarse exploratory anatomy profiles
+Lower leg,Lower limb,Analyst grouping for coarse exploratory anatomy profiles
+Ankle,Lower limb,Analyst grouping for coarse exploratory anatomy profiles
+Foot/toes,Lower limb,Analyst grouping for coarse exploratory anatomy profiles
+Multiple/systemic,Other/systemic,Retained remainder rather than dropped from the denominator
+Internal/systemic,Other/systemic,Retained remainder rather than dropped from the denominator
+Not stated/other,Other/systemic,Unknown anatomy retained explicitly within the remainder

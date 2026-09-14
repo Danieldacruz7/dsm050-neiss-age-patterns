@@ -1,0 +1,61 @@
+year,stage,remaining_n,removed_at_step
+2016,All parsed raw records,375196,0
+2016,Qualifying P1 or P2,107706,267490
+2016,Then valid survey design,107706,0
+2016,Then known valid age,107696,10
+2016,Then valid treatment year,107696,0
+2016,Core subset of final Extended,76072,31624
+2017,All parsed raw records,386905,0
+2017,Qualifying P1 or P2,110097,276808
+2017,Then valid survey design,110097,0
+2017,Then known valid age,110091,6
+2017,Then valid treatment year,110091,0
+2017,Core subset of final Extended,77760,32331
+2018,All parsed raw records,361666,0
+2018,Qualifying P1 or P2,98732,262934
+2018,Then valid survey design,98732,0
+2018,Then known valid age,98728,4
+2018,Then valid treatment year,98728,0
+2018,Core subset of final Extended,69959,28769
+2019,All parsed raw records,358714,0
+2019,Qualifying P1 or P2,98171,260543
+2019,Then valid survey design,98171,0
+2019,Then known valid age,98163,8
+2019,Then valid treatment year,98163,0
+2019,Core subset of final Extended,67988,30175
+2020,All parsed raw records,309370,0
+2020,Qualifying P1 or P2,71311,238059
+2020,Then valid survey design,71311,0
+2020,Then known valid age,71300,11
+2020,Then valid treatment year,71300,0
+2020,Core subset of final Extended,41715,29585
+2021,All parsed raw records,340440,0
+2021,Qualifying P1 or P2,89832,250608
+2021,Then valid survey design,89832,0
+2021,Then known valid age,89828,4
+2021,Then valid treatment year,89828,0
+2021,Core subset of final Extended,57171,32657
+2022,All parsed raw records,323343,0
+2022,Qualifying P1 or P2,90925,232418
+2022,Then valid survey design,90925,0
+2022,Then known valid age,90919,6
+2022,Then valid treatment year,90919,0
+2022,Core subset of final Extended,60503,30416
+2023,All parsed raw records,338259,0
+2023,Qualifying P1 or P2,95241,243018
+2023,Then valid survey design,95241,0
+2023,Then known valid age,95231,10
+2023,Then valid treatment year,95231,0
+2023,Core subset of final Extended,64571,30660
+2024,All parsed raw records,361672,0
+2024,Qualifying P1 or P2,104493,257179
+2024,Then valid survey design,104493,0
+2024,Then known valid age,104486,7
+2024,Then valid treatment year,104486,0
+2024,Core subset of final Extended,69847,34639
+2025,All parsed raw records,410201,0
+2025,Qualifying P1 or P2,112417,297784
+2025,Then valid survey design,112417,0
+2025,Then known valid age,112405,12
+2025,Then valid treatment year,112405,0
+2025,Core subset of final Extended,74051,38354

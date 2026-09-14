@@ -1,0 +1,32 @@
+code,official_label,derived_family,rationale,review_status
+41,INGESTION,Ingestion/aspiration,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+42,ASPIRATION,Ingestion/aspiration,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+46,"BURN, ELECTRICAL",Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+47,"BURN, NOT SPEC.",Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+48,"BURN, SCALD",Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+49,"BURN, CHEMICAL",Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+50,AMPUTATION,Amputation,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+51,"BURNS, THERMAL",Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+52,CONCUSSION,Concussion,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+53,"CONTUSIONS, ABR.",Contusion/abrasion,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+54,CRUSHING,Crushing,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+55,DISLOCATION,Dislocation,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+56,FOREIGN BODY,Foreign body,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+57,FRACTURE,Fracture,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+58,HEMATOMA,Haematoma,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+59,LACERATION,Laceration/open wound,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+60,DENTAL INJURY,Dental injury,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+61,NERVE DAMAGE,Nerve damage,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+62,INTERNAL INJURY,Internal injury,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+63,PUNCTURE,Laceration/open wound,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+64,"STRAIN, SPRAIN",Strain/sprain,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+65,ANOXIA,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+66,HEMORRHAGE,Haemorrhage,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+67,ELECTRIC SHOCK,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+68,POISONING,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+69,SUBMERSION,Submersion,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+70,OTHER,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+71,OTHER,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+72,AVULSION,Laceration/open wound,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+73,RADIATION,Burn,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+74,DERMA/CONJUNCT,Other/unspecified,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL

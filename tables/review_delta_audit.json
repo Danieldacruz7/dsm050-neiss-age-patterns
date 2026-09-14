@@ -1,0 +1,77 @@
+{
+  "all_original_source_hashes_unchanged": true,
+  "retained_rows_identical": true,
+  "only_removed_records_have_unknown_age": true,
+  "years": [
+    {
+      "year": 2016,
+      "old_extended_n": 107706,
+      "new_extended_n": 107696,
+      "removed_unknown_age": 10,
+      "removed_core": 6
+    },
+    {
+      "year": 2017,
+      "old_extended_n": 110097,
+      "new_extended_n": 110091,
+      "removed_unknown_age": 6,
+      "removed_core": 3
+    },
+    {
+      "year": 2018,
+      "old_extended_n": 98732,
+      "new_extended_n": 98728,
+      "removed_unknown_age": 4,
+      "removed_core": 2
+    },
+    {
+      "year": 2019,
+      "old_extended_n": 98171,
+      "new_extended_n": 98163,
+      "removed_unknown_age": 8,
+      "removed_core": 2
+    },
+    {
+      "year": 2020,
+      "old_extended_n": 71311,
+      "new_extended_n": 71300,
+      "removed_unknown_age": 11,
+      "removed_core": 4
+    },
+    {
+      "year": 2021,
+      "old_extended_n": 89832,
+      "new_extended_n": 89828,
+      "removed_unknown_age": 4,
+      "removed_core": 1
+    },
+    {
+      "year": 2022,
+      "old_extended_n": 90925,
+      "new_extended_n": 90919,
+      "removed_unknown_age": 6,
+      "removed_core": 1
+    },
+    {
+      "year": 2023,
+      "old_extended_n": 95241,
+      "new_extended_n": 95231,
+      "removed_unknown_age": 10,
+      "removed_core": 2
+    },
+    {
+      "year": 2024,
+      "old_extended_n": 104493,
+      "new_extended_n": 104486,
+      "removed_unknown_age": 7,
+      "removed_core": 3
+    },
+    {
+      "year": 2025,
+      "old_extended_n": 112417,
+      "new_extended_n": 112405,
+      "removed_unknown_age": 12,
+      "removed_core": 3
+    }
+  ]
+}

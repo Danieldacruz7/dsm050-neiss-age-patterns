@@ -1,0 +1,32 @@
+Activity,sample_n,selected
+Basketball,113358,True
+Exercise/fitness,91036,True
+Football,89908,True
+Soccer,68252,True
+Swimming/diving,46621,True
+Baseball/softball,40874,True
+Weight training,25585,True
+Other sport/recreation,24858,True
+Combat sports,23486,True
+Other ball sports,20523,True
+Gymnastics/cheerleading,19322,True
+Volleyball,14726,True
+Snow sports,12717,True
+Hockey,12258,True
+Fishing,11583,True
+Track and field,7989,False
+Golf,7841,False
+Racquet sports,6459,False
+Ice skating,5734,False
+Skating,4841,False
+Lacrosse,4276,False
+Bowling,3078,False
+Flying discs,1863,False
+Water sports,1594,False
+Cycling,293,False
+Water polo,234,False
+Horseshoes,120,False
+Skeet shooting,80,False
+Shuffleboard,73,False
+Croquet,40,False
+Curling,15,False

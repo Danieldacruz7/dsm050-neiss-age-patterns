@@ -1,0 +1,155 @@
+Body_Region,Age_Band,percent,reportable,observed_years,reason
+Ankle,0-4,,False,10,at least one annual percentage fails
+Ankle,10-14,11.5,True,10,all annual percentages pass
+Ankle,15-17,15.6,True,10,all annual percentages pass
+Ankle,18-24,14.2,True,10,all annual percentages pass
+Ankle,25-34,11.0,True,10,all annual percentages pass
+Ankle,35-44,8.4,True,10,all annual percentages pass
+Ankle,45-54,5.9,True,10,all annual percentages pass
+Ankle,5-9,,False,10,at least one annual percentage fails
+Ankle,55-64,4.4,True,10,all annual percentages pass
+Ankle,65-74,3.1,True,10,all annual percentages pass
+Ankle,75+,,False,10,at least one annual percentage fails
+Elbow/forearm,0-4,,False,10,at least one annual percentage fails
+Elbow/forearm,10-14,7.3,True,10,all annual percentages pass
+Elbow/forearm,15-17,4.5,True,10,all annual percentages pass
+Elbow/forearm,18-24,3.2,True,10,all annual percentages pass
+Elbow/forearm,25-34,3.2,True,10,all annual percentages pass
+Elbow/forearm,35-44,3.5,True,10,all annual percentages pass
+Elbow/forearm,45-54,3.3,True,10,all annual percentages pass
+Elbow/forearm,5-9,8.7,True,10,all annual percentages pass
+Elbow/forearm,55-64,3.7,True,10,all annual percentages pass
+Elbow/forearm,65-74,,False,10,at least one annual percentage fails
+Elbow/forearm,75+,,False,10,at least one annual percentage fails
+Foot/toes,0-4,6.7,True,10,all annual percentages pass
+Foot/toes,10-14,5.7,True,10,all annual percentages pass
+Foot/toes,15-17,4.6,True,10,all annual percentages pass
+Foot/toes,18-24,5.6,True,10,all annual percentages pass
+Foot/toes,25-34,6.5,True,10,all annual percentages pass
+Foot/toes,35-44,6.5,True,10,all annual percentages pass
+Foot/toes,45-54,6.1,True,10,all annual percentages pass
+Foot/toes,5-9,6.3,True,10,all annual percentages pass
+Foot/toes,55-64,4.9,True,10,all annual percentages pass
+Foot/toes,65-74,3.4,True,10,all annual percentages pass
+Foot/toes,75+,,False,10,at least one annual percentage fails
+Head/face,0-4,,False,10,at least one annual percentage fails
+Head/face,10-14,22.8,True,10,all annual percentages pass
+Head/face,15-17,22.7,True,10,all annual percentages pass
+Head/face,18-24,20.6,True,10,all annual percentages pass
+Head/face,25-34,15.1,True,10,all annual percentages pass
+Head/face,35-44,13.5,True,10,all annual percentages pass
+Head/face,45-54,13.4,True,10,all annual percentages pass
+Head/face,5-9,40.4,True,10,all annual percentages pass
+Head/face,55-64,13.0,True,10,all annual percentages pass
+Head/face,65-74,15.4,True,10,all annual percentages pass
+Head/face,75+,19.7,True,10,all annual percentages pass
+Hip/thigh,0-4,,False,10,at least one annual percentage fails
+Hip/thigh,10-14,1.5,True,10,all annual percentages pass
+Hip/thigh,15-17,1.6,True,10,all annual percentages pass
+Hip/thigh,18-24,2.0,True,10,all annual percentages pass
+Hip/thigh,25-34,2.0,True,10,all annual percentages pass
+Hip/thigh,35-44,2.1,True,10,all annual percentages pass
+Hip/thigh,45-54,2.2,True,10,all annual percentages pass
+Hip/thigh,5-9,2.0,True,10,all annual percentages pass
+Hip/thigh,55-64,2.1,True,10,all annual percentages pass
+Hip/thigh,65-74,,False,10,at least one annual percentage fails
+Hip/thigh,75+,,False,10,at least one annual percentage fails
+Internal/systemic,0-4,,False,10,at least one annual percentage fails
+Internal/systemic,10-14,,False,10,at least one annual percentage fails
+Internal/systemic,15-17,,False,10,at least one annual percentage fails
+Internal/systemic,18-24,,False,10,at least one annual percentage fails
+Internal/systemic,25-34,,False,10,at least one annual percentage fails
+Internal/systemic,35-44,,False,10,at least one annual percentage fails
+Internal/systemic,45-54,,False,10,at least one annual percentage fails
+Internal/systemic,5-9,,False,10,at least one annual percentage fails
+Internal/systemic,55-64,,False,10,at least one annual percentage fails
+Internal/systemic,65-74,,False,10,at least one annual percentage fails
+Internal/systemic,75+,,False,10,at least one annual percentage fails
+Knee,0-4,,False,10,at least one annual percentage fails
+Knee,10-14,8.8,True,10,all annual percentages pass
+Knee,15-17,10.8,True,10,all annual percentages pass
+Knee,18-24,11.1,True,10,all annual percentages pass
+Knee,25-34,11.1,True,10,all annual percentages pass
+Knee,35-44,10.1,True,10,all annual percentages pass
+Knee,45-54,9.5,True,10,all annual percentages pass
+Knee,5-9,4.0,True,10,all annual percentages pass
+Knee,55-64,8.6,True,10,all annual percentages pass
+Knee,65-74,7.1,True,10,all annual percentages pass
+Knee,75+,,False,10,at least one annual percentage fails
+Lower leg,0-4,,False,10,at least one annual percentage fails
+Lower leg,10-14,3.3,True,10,all annual percentages pass
+Lower leg,15-17,3.3,True,10,all annual percentages pass
+Lower leg,18-24,3.3,True,10,all annual percentages pass
+Lower leg,25-34,5.7,True,10,all annual percentages pass
+Lower leg,35-44,7.9,True,10,all annual percentages pass
+Lower leg,45-54,7.5,True,10,all annual percentages pass
+Lower leg,5-9,2.9,True,10,all annual percentages pass
+Lower leg,55-64,6.5,True,10,all annual percentages pass
+Lower leg,65-74,,False,10,at least one annual percentage fails
+Lower leg,75+,,False,10,at least one annual percentage fails
+Multiple/systemic,0-4,,False,10,at least one annual percentage fails
+Multiple/systemic,10-14,1.2,True,10,all annual percentages pass
+Multiple/systemic,15-17,1.7,True,10,all annual percentages pass
+Multiple/systemic,18-24,2.2,True,10,all annual percentages pass
+Multiple/systemic,25-34,2.8,True,10,all annual percentages pass
+Multiple/systemic,35-44,2.7,True,10,all annual percentages pass
+Multiple/systemic,45-54,,False,10,at least one annual percentage fails
+Multiple/systemic,5-9,,False,10,at least one annual percentage fails
+Multiple/systemic,55-64,,False,10,at least one annual percentage fails
+Multiple/systemic,65-74,,False,10,at least one annual percentage fails
+Multiple/systemic,75+,,False,10,at least one annual percentage fails
+Neck,0-4,,False,10,at least one annual percentage fails
+Neck,10-14,1.5,True,10,all annual percentages pass
+Neck,15-17,1.6,True,10,all annual percentages pass
+Neck,18-24,1.6,True,10,all annual percentages pass
+Neck,25-34,2.0,True,10,all annual percentages pass
+Neck,35-44,2.3,True,10,all annual percentages pass
+Neck,45-54,2.3,True,10,all annual percentages pass
+Neck,5-9,,False,10,at least one annual percentage fails
+Neck,55-64,,False,10,at least one annual percentage fails
+Neck,65-74,,False,10,at least one annual percentage fails
+Neck,75+,,False,10,at least one annual percentage fails
+Not stated/other,0-4,,False,10,at least one annual percentage fails
+Not stated/other,10-14,,False,10,at least one annual percentage fails
+Not stated/other,15-17,,False,10,at least one annual percentage fails
+Not stated/other,18-24,,False,10,at least one annual percentage fails
+Not stated/other,25-34,,False,10,at least one annual percentage fails
+Not stated/other,35-44,,False,10,at least one annual percentage fails
+Not stated/other,45-54,,False,10,at least one annual percentage fails
+Not stated/other,5-9,,False,10,at least one annual percentage fails
+Not stated/other,55-64,,False,10,at least one annual percentage fails
+Not stated/other,65-74,,False,10,at least one annual percentage fails
+Not stated/other,75+,,False,10,at least one annual percentage fails
+Shoulder/upper arm,0-4,,False,10,at least one annual percentage fails
+Shoulder/upper arm,10-14,5.6,True,10,all annual percentages pass
+Shoulder/upper arm,15-17,7.8,True,10,all annual percentages pass
+Shoulder/upper arm,18-24,9.6,True,10,all annual percentages pass
+Shoulder/upper arm,25-34,8.8,True,10,all annual percentages pass
+Shoulder/upper arm,35-44,8.9,True,10,all annual percentages pass
+Shoulder/upper arm,45-54,8.5,True,10,all annual percentages pass
+Shoulder/upper arm,5-9,3.8,True,10,all annual percentages pass
+Shoulder/upper arm,55-64,8.0,True,10,all annual percentages pass
+Shoulder/upper arm,65-74,7.2,True,10,all annual percentages pass
+Shoulder/upper arm,75+,6.0,True,10,all annual percentages pass
+Trunk/spine,0-4,,False,10,at least one annual percentage fails
+Trunk/spine,10-14,7.6,True,10,all annual percentages pass
+Trunk/spine,15-17,9.6,True,10,all annual percentages pass
+Trunk/spine,18-24,12.8,True,10,all annual percentages pass
+Trunk/spine,25-34,18.9,True,10,all annual percentages pass
+Trunk/spine,35-44,21.6,True,10,all annual percentages pass
+Trunk/spine,45-54,25.2,True,10,all annual percentages pass
+Trunk/spine,5-9,5.5,True,10,all annual percentages pass
+Trunk/spine,55-64,28.2,True,10,all annual percentages pass
+Trunk/spine,65-74,,False,10,at least one annual percentage fails
+Trunk/spine,75+,,False,10,at least one annual percentage fails
+Wrist/hand,0-4,8.5,True,10,all annual percentages pass
+Wrist/hand,10-14,22.8,True,10,all annual percentages pass
+Wrist/hand,15-17,15.8,True,10,all annual percentages pass
+Wrist/hand,18-24,13.2,True,10,all annual percentages pass
+Wrist/hand,25-34,12.3,True,10,all annual percentages pass
+Wrist/hand,35-44,11.9,True,10,all annual percentages pass
+Wrist/hand,45-54,11.7,True,10,all annual percentages pass
+Wrist/hand,5-9,16.3,True,10,all annual percentages pass
+Wrist/hand,55-64,12.7,True,10,all annual percentages pass
+Wrist/hand,65-74,10.9,True,10,all annual percentages pass
+Wrist/hand,75+,7.3,True,10,all annual percentages pass

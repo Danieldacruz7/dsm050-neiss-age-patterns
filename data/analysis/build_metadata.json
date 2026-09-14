@@ -1,0 +1,29 @@
+{
+  "pipeline_version": "2026-09-13-age-validation-2",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dictionary_hashes": {
+    "body_parts.csv": "298925c6e264490935aa59dd0d88790df9f80acf19f252e20f27dedd62bd0b97",
+    "body_regions.csv": "f3f2af6f5f3314072836765af80cac181d1e2f19e720f3b91c81feac1cfb8a19",
+    "cluster_age_bands.csv": "a12be9052476289cf1ce9ef3339171a649b7fa8a3476cd1c696a9995d996cad7",
+    "cluster_body_regions.csv": "dd2cee30b4fdfd8fe16f287238fea4ad01b250de59c36434682078474a827a3d",
+    "diagnoses.csv": "2805663fc24fc8dcd32d0eb88f74e3d0ae09cb992835790a43952cbdeac2a865",
+    "diagnosis_families.csv": "4f5642f119b8c5ab5e800d1da146bb6b39fd2b33820ea3c383aaccf7409e2935",
+    "dispositions.csv": "54b25ce55a946048ace7446c4cf087e9430738476d3802e5e3ba3f8415bcc68e",
+    "product_classification.csv": "6cf8a6fa581d66dbd047f5746bc584d8cd304ec0496d9482a8311d3943cf45ac",
+    "product_codes.csv": "e254780b549f52fdd6c8ddf9eb39cfaa5b080b9f4179983f99cc7f626ea140ed",
+    "sexes.csv": "62a502b96fd65a6a220f8b3abf4ad0aaf63ad74a88c138b0776cfb1baaee238c"
+  },
+  "helper_sha256": "ff9835977a9c66dd9e5d085ba7078da8848eea3aa25b6faecc40a9bdeee405c3",
+  "design_roster_sha256": "13abc852e208db8dc17e665c3b6ea23c359c46d15adb613a69abd2dcd230c85f"
+}

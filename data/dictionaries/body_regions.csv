@@ -1,0 +1,31 @@
+code,official_label,derived_region,rationale,review_status
+0,INTERNAL,Internal/systemic,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+30,SHOULDER,Shoulder/upper arm,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+31,UPPER TRUNK,Trunk/spine,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+32,ELBOW,Elbow/forearm,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+33,LOWER ARM,Elbow/forearm,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+34,WRIST,Wrist/hand,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+35,KNEE,Knee,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+36,LOWER LEG,Lower leg,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+37,ANKLE,Ankle,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+38,PUBIC REGION,Hip/thigh,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+75,HEAD,Head/face,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+76,FACE,Head/face,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+77,EYEBALL,Head/face,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+78,UPPER TRUNK(OLD),Trunk/spine,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+79,LOWER TRUNK,Trunk/spine,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+80,UPPER ARM,Shoulder/upper arm,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+81,UPPER LEG,Hip/thigh,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+82,HAND,Wrist/hand,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+83,FOOT,Foot/toes,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+84,25-50% OF BODY,Multiple/systemic,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+85,ALL PARTS BODY,Multiple/systemic,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+86,OTHER(OLD),Not stated/other,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+87,NOT STATED/UNK,Not stated/other,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+88,MOUTH,Head/face,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+89,NECK,Neck,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+90,LOWER ARM(OLD),Elbow/forearm,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+91,LOWER LEG(OLD),Lower leg,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+92,FINGER,Wrist/hand,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+93,TOE,Foot/toes,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL
+94,EAR,Head/face,"Mapped from the official CPSC label, programmatically",VERIFIED_AGAINST_OFFICIAL_LABEL

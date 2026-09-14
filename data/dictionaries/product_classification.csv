@@ -1,0 +1,174 @@
+product_code,official_label,suggested_tier,classification_type,activity_family,include_core,include_extended,total_count_2010_2025,count_2024,years_observed,rationale,review_status
+1205,"BASKETBALL, ACTIVITY AND RELATED EQUIPMENT",1_sport,sport,Basketball,TRUE,TRUE,206663,10248,16,deliberate sport or exercise participation,CONFIRMED
+5040,"BICYCLES AND ACCESSORIES, (EXCL.MOUNTAIN OR ALL-TERRAIN)",4_ambiguous,ambiguous,Cycling,FALSE,TRUE,197771,10350,16,Extended only: product code cannot distinguish transport from recreation,CONFIRMED
+1211,"FOOTBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Football,TRUE,TRUE,168392,9557,16,deliberate sport or exercise participation,CONFIRMED
+4057,"TABLES (EXCL.  BABY CHANGING TABLES, BILLIARD OR POOL TABLES",4_ambiguous,ambiguous,Swimming/diving,FALSE,FALSE,117176,6599,16,"excluded: product is an object, not an activity context",CONFIRMED
+3299,"EXERCISE (ACTIVITY OR APPAREL, W/O EQUIP)",2_exercise_fitness,exercise,Exercise/fitness,TRUE,TRUE,114324,7478,16,deliberate sport or exercise participation,CONFIRMED
+1267,"SOCCER (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Soccer,TRUE,TRUE,110957,8242,16,deliberate sport or exercise participation,CONFIRMED
+1233,TRAMPOLINES,4_ambiguous,ambiguous,Trampolines,FALSE,TRUE,57109,3840,16,active recreation; participation intent ambiguous,CONFIRMED
+5041,"BASEBALL (ACTIVITY, APPAREL OR EQUIPMENT; EXCL SOFTBALL)",1_sport,sport,Baseball/softball,TRUE,TRUE,48676,2515,16,deliberate sport or exercise participation,CONFIRMED
+1244,MONKEY BARS OR OTHER PLAYGROUND CLIMBING APPARATUS,3_active_recreation,recreation,Playground equipment,FALSE,TRUE,40613,2254,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3265,"WEIGHT LIFTING (ACTIVITY, APPAREL OR EQUIPMENT)",2_exercise_fitness,exercise,Weight training,TRUE,TRUE,40369,2843,16,deliberate sport or exercise participation,CONFIRMED
+3274,"SWIMMING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,36785,2572,16,deliberate sport or exercise participation,CONFIRMED
+1200,"SPORTS AND RECREATIONAL ACTIVITY, N.E.C.",4_ambiguous,ambiguous,Other sport/recreation,TRUE,TRUE,33606,1861,16,deliberate sport or exercise participation,CONFIRMED
+5034,"SOFTBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Baseball/softball,TRUE,TRUE,29867,1441,16,deliberate sport or exercise participation,CONFIRMED
+1242,SLIDES OR SLIDING BOARDS,4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,26046,1593,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3246,SWINGS OR SWING SETS,4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,25716,1555,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3277,EXERCISE EQUIPMENT,2_exercise_fitness,exercise,Exercise/fitness,TRUE,TRUE,25642,1774,16,deliberate sport or exercise participation,CONFIRMED
+3278,"DANCING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Dance,FALSE,TRUE,24590,1555,16,active recreation; participation intent ambiguous,CONFIRMED
+1266,"VOLLEYBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Volleyball,TRUE,TRUE,23388,1741,16,deliberate sport or exercise participation,CONFIRMED
+3286,ALL TERRAIN VEHICLES (FOUR WHEELS/OFF ROAD ONLY),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,22804,956,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1284,"SWIMMING POOLS, NOT SPECIFIED",4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,21280,1246,16,deliberate sport or exercise participation,CONFIRMED
+5036,"TWO-WHEELED, POWERED, OFF-ROAD VEHICLES",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,21203,1526,16,Excluded: motorised off-road vehicle; not sport or exercise participation,CONFIRMED
+3223,"FISHING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Fishing,TRUE,TRUE,18864,1209,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1239,"HORSEBACK RIDING (ACTIVITY, APPAREL OR EQUIPMENT)",3_active_recreation,recreation,Equestrian,FALSE,TRUE,18534,937,16,active recreation; participation intent ambiguous,CONFIRMED
+3216,"ROLLER SKATING (ACTIVITY, APPAREL OR EQUIPMENT)",3_active_recreation,recreation,Skating,FALSE,TRUE,18091,933,16,active recreation; participation intent ambiguous,CONFIRMED
+1270,"WRESTLING (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Combat sports,TRUE,TRUE,17886,1542,16,deliberate sport or exercise participation,CONFIRMED
+3273,"PLAYGROUND EQUIPMENT, NOT SPECIFIED",3_active_recreation,recreation,Playground equipment,FALSE,TRUE,17453,1394,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3235,"OTHER BALL SPORTS (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Other ball sports,TRUE,TRUE,17249,1419,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1272,GYMNASTICS AND ASSOCIATED EQUIPMENT,4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,16556,1063,16,deliberate sport or exercise participation,CONFIRMED
+3254,"CHEERLEADING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,14377,923,16,deliberate sport or exercise participation,CONFIRMED
+5024,"SCOOTERS, UNSPECIFIED",4_ambiguous,ambiguous,Scooters,FALSE,TRUE,13824,2626,6,active recreation; participation intent ambiguous,CONFIRMED
+5030,"TRACK & FIELD (ACT., APPAREL, EQP.; EX.  JOG, RUN FIT)",2_exercise_fitness,exercise,Track and field,TRUE,TRUE,13095,857,16,deliberate sport or exercise participation,CONFIRMED
+3219,OTHER PLAYGROUND EQUIPMENT,3_active_recreation,recreation,Playground equipment,FALSE,TRUE,12961,820,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+5022,"SCOOTERS, POWERED",4_ambiguous,ambiguous,Scooters,FALSE,TRUE,12804,2779,6,active recreation; participation intent ambiguous,CONFIRMED
+3257,"MARTIAL ARTS (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Combat sports,TRUE,TRUE,12793,860,16,deliberate sport or exercise participation,CONFIRMED
+1293,AMUSEMENT ATTRACTIONS (INCLUDING RIDES),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,12791,901,16,Excluded: amusement ride; passive participation,CONFIRMED
+1212,"GOLF (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Golf,TRUE,TRUE,12030,882,16,deliberate sport or exercise participation,CONFIRMED
+3287,ALL TERRAIN VEHICLES (# OF WHEELS UNSPECIFIED/OFF ROAD),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,11993,845,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+3283,"SNOW SKIING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,TRUE,TRUE,11879,836,16,deliberate sport or exercise participation,CONFIRMED
+5031,"SNOWBOARDING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,TRUE,TRUE,10699,546,16,deliberate sport or exercise participation,CONFIRMED
+3255,"ICE SKATING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Ice skating,TRUE,TRUE,9947,580,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3272,"HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT), NOT SPECIFIED",1_sport,sport,Hockey,TRUE,TRUE,9879,604,16,deliberate sport or exercise participation,CONFIRMED
+5016,"BALLS, OTHER OR NOT SPECIFIED",4_ambiguous,ambiguous,Other ball sports,TRUE,TRUE,9843,778,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1279,"ICE HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Hockey,TRUE,TRUE,9158,576,16,deliberate sport or exercise participation,CONFIRMED
+3215,MOPEDS OR POWER-ASSISTED CYCLES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,9103,0,14,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1215,"LACROSSE (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Lacrosse,TRUE,TRUE,7949,470,16,deliberate sport or exercise participation,CONFIRMED
+3284,"TENNIS (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Racquet sports,TRUE,TRUE,7791,511,16,deliberate sport or exercise participation,CONFIRMED
+1207,"BOXING (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Combat sports,TRUE,TRUE,7465,600,16,deliberate sport or exercise participation,CONFIRMED
+1294,BLEACHERS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,6796,346,16,Excluded: seating infrastructure; product association does not establish participation,CONFIRMED
+1213,"GOLF CARTS, MOTORIZED VEHICLE",1_sport,sport,Golf,FALSE,FALSE,6423,533,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1217,SLEDS,4_ambiguous,ambiguous,Snow sports,FALSE,TRUE,6381,270,16,active recreation; participation intent ambiguous,CONFIRMED
+5042,"SCOOTERS / SKATEBOARDS, POWERED",4_ambiguous,ambiguous,Skateboarding,FALSE,TRUE,6087,0,10,active recreation; participation intent ambiguous,CONFIRMED
+3251,BUILT-IN SWIMMING POOLS,4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,5778,311,16,deliberate sport or exercise participation,CONFIRMED
+1206,"BOWLING (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Bowling,TRUE,TRUE,5600,292,16,deliberate sport or exercise participation,CONFIRMED
+5021,TOY VEHICLES (EXCLUDING RIDING TOYS),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,5272,287,16,Excluded: toy vehicle; not a sporting activity,CONFIRMED
+3297,"IN-LINE SKATING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Skating,TRUE,TRUE,5045,310,16,Core: sporting or skating activity (informal play included),CONFIRMED
+5011,"BOOK BAGS OR BACK CARRIERS (EXC. BABY CARR. LUGGAGE, CAM",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,4715,317,16,Excluded: carried object; no activity context,CONFIRMED
+3234,"RUGBY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Other sport/recreation,TRUE,TRUE,4643,265,16,deliberate sport or exercise participation,CONFIRMED
+5033,MOUNTAIN OR ALL-TERRAIN BICYCLES AND ACCESSORIES,4_ambiguous,ambiguous,Cycling,FALSE,TRUE,4389,384,16,Extended only: product code cannot distinguish transport from recreation,CONFIRMED
+3259,GO-CARTS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,4378,268,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+3249,"GRILLS, NOT SPECIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,4175,221,16,"excluded: product is an object, not an activity context",CONFIRMED
+1237,"GAS, AIR OR SPRING-OPERATED GUNS",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,4135,139,16,"excluded: product is an object, not an activity context",CONFIRMED
+5025,HOVERBOARDS AND POWERED SKATEBOARDS,4_ambiguous,ambiguous,Skateboarding,FALSE,TRUE,3783,438,6,active recreation; participation intent ambiguous,CONFIRMED
+5017,FLYING DISCS AND BOOMERANGS,4_ambiguous,ambiguous,Flying discs,TRUE,TRUE,3645,160,16,Core: sporting or skating activity (informal play included),CONFIRMED
+5045,ELECTRIC POWER-ASSISTED PEDAL BICYCLES,4_ambiguous,ambiguous,Cycling,FALSE,TRUE,3583,1267,2,Extended only: product code cannot distinguish transport from recreation,CONFIRMED
+3236,"BALL SPORTS (ACTIVITY, APPAREL OR EQUIPMENT), N.S.",4_ambiguous,ambiguous,Other ball sports,TRUE,TRUE,3313,113,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1261,"SURFING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Water sports,TRUE,TRUE,2922,143,16,deliberate sport or exercise participation,CONFIRMED
+3217,"SKATING (ACTIVITY/APPAREL, OR EQUIPMENT) OTHER/NOT SPECIFIED",4_ambiguous,ambiguous,Skating,TRUE,TRUE,2767,191,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3294,"WATER SLIDES, BACKYARD/HOME (NOT SWIMMING POOL SLIDES)",4_ambiguous,ambiguous,Swimming/diving,FALSE,TRUE,2667,149,16,active recreation; participation intent ambiguous,CONFIRMED
+1278,DIVING OR DIVING BOARDS,3_active_recreation,recreation,Swimming/diving,TRUE,TRUE,2618,148,16,deliberate sport or exercise participation,CONFIRMED
+5019,GAMES OR GAME PARTS (EXCL MARBLES & COMPUTER GAMES),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,2531,182,16,Excluded: sedentary game; no physical participation,CONFIRMED
+3295,"WATER SLIDES, PUBLIC (STATIONARY AMUSEMENT RIDES)",4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,2413,157,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+1258,"MOUNTAIN CLIMBING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Climbing,FALSE,TRUE,2214,166,16,active recreation; participation intent ambiguous,CONFIRMED
+5037,HAMMOCKS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,2068,165,16,Excluded: furniture; no activity context,CONFIRMED
+3200,"WATER TUBING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Water sports,FALSE,TRUE,2057,113,16,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+1240,AQUARIUMS OR ACCESSORIES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,2039,81,16,Excluded: household object,CONFIRMED
+5023,"SCOOTERS, UNPOWERED",4_ambiguous,ambiguous,Scooters,FALSE,TRUE,1874,311,6,active recreation; participation intent ambiguous,CONFIRMED
+5005,"RIDING TOYS, NOT SPECIFIED",4_ambiguous,ambiguous,Riding toys,FALSE,TRUE,1870,112,16,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+5029,"CAMPING EQUIPMENT (EXCL. TRAILERS, LIGHTING EQUIPMENT,",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1864,128,16,"Excluded: camping equipment, not an activity",CONFIRMED
+5010,CRAYONS OR CHALK,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1851,99,16,Excluded: art materials,CONFIRMED
+1243,SEE-SAWS OR TEETER BOARDS,4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,1836,104,16,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+5046,"POWER-ASSISTED CYCLES, NOT ELSEWHERE CLASSIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1807,1042,2,"Excluded: power-assisted cycle; motorised, and distinct from pedal cycling",CONFIRMED
+1295,"FIELD HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Hockey,TRUE,TRUE,1802,98,16,deliberate sport or exercise participation,CONFIRMED
+5044,UTILITY VEHICLES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1746,263,16,"Excluded: utility vehicle, not recreational",CONFIRMED
+3250,PORTABLE FOOD OR BEVERAGE COOLERS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1665,103,16,Excluded: container,CONFIRMED
+1290,"SNOWMOBILES (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,FALSE,FALSE,1617,70,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1264,"WATER SKIING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,TRUE,TRUE,1559,58,16,deliberate sport or exercise participation,CONFIRMED
+5020,"PRETEND ELECTRONICS, TOOLS, HOUSEWARES & APPLIANCES",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1551,121,16,Excluded: pretend-play toy,CONFIRMED
+1234,TREEHOUSES OR PLAYHOUSES,4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,1541,61,16,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+3256,"SQUASH, RACQUET BALL OR PADDLE BALL",1_sport,sport,Racquet sports,TRUE,TRUE,1417,66,16,deliberate sport or exercise participation,CONFIRMED
+3262,SWIMMING POOL EQUIPMENT,4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,1318,82,16,deliberate sport or exercise participation,CONFIRMED
+1235,"ARCHERY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Other sport/recreation,TRUE,TRUE,1279,72,16,deliberate sport or exercise participation,CONFIRMED
+3293,"WATER SLIDES, NOT ELSEWHERE CLASSIFIED",4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,1257,123,16,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3248,GAS OR LP GRILLS OR STOVES (FOR OUTDOOR USE),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1195,61,16,"excluded: product is an object, not an activity context",CONFIRMED
+5035,"MINIBIKES, POWERED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,1149,114,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1260,"BILLIARDS OR POOL (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,1126,48,16,deliberate sport or exercise participation,CONFIRMED
+1282,"HANDBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Other sport/recreation,TRUE,TRUE,869,44,16,deliberate sport or exercise participation,CONFIRMED
+3222,"BADMINTON (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Racquet sports,TRUE,TRUE,840,71,16,deliberate sport or exercise participation,CONFIRMED
+5043,PORTABLE SWIMMING POOLS,4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,781,50,16,deliberate sport or exercise participation,CONFIRMED
+3233,OTHER GRILLS OR STOVES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,780,83,16,"excluded: product is an object, not an activity context",CONFIRMED
+1276,"TETHERBALL (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Other ball sports,TRUE,TRUE,754,26,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1269,"TABLE TENNIS (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Racquet sports,TRUE,TRUE,747,63,16,deliberate sport or exercise participation,CONFIRMED
+3245,"STREET HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Hockey,TRUE,TRUE,741,32,16,deliberate sport or exercise participation,CONFIRMED
+3218,CHARCOAL OR WOOD-BURNING GRILLS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,643,28,16,"excluded: product is an object, not an activity context",CONFIRMED
+5018,DOLL HOUSES AND OTHER PLAY SCENES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,582,40,16,Excluded: pretend-play toy,CONFIRMED
+1299,"SNOW TUBING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,FALSE,TRUE,541,20,16,active recreation; participation intent ambiguous,CONFIRMED
+5006,OTHER TOY GUNS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,511,29,16,"excluded: product is an object, not an activity context",CONFIRMED
+1275,"SCUBA DIVING (ACTIVITY, APPAREL OR EQUIPMENT)",3_active_recreation,recreation,Swimming/diving,TRUE,TRUE,504,28,16,deliberate sport or exercise participation,CONFIRMED
+3221,ABOVE-GROUND SWIMMING POOLS (EXCL PORTABLE POOLS),4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,497,36,16,deliberate sport or exercise participation,CONFIRMED
+1277,SWIMMING POOL SLIDES,4_ambiguous,ambiguous,Swimming/diving,TRUE,TRUE,485,29,16,deliberate sport or exercise participation,CONFIRMED
+3279,FLOTATION TOYS (EXCL OFFICIAL LIFE-SAVING DEVICES),4_ambiguous,ambiguous,Water sports,FALSE,TRUE,475,36,16,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+3285,ALL TERRAIN VEHICLES (THREE WHEELS/OFF-ROAD ONLY),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,463,25,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+3276,"WATER POLO (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Water polo,TRUE,TRUE,376,31,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3288,DUNE BUGGIES/BEACH BUGGIES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,314,5,16,Excluded: motorised off-road vehicle,CONFIRMED
+5032,"ROLLER HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Hockey,TRUE,TRUE,289,12,16,deliberate sport or exercise participation,CONFIRMED
+1257,"HORSESHOES (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Horseshoes,TRUE,TRUE,281,6,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3202,PEDAL-POWERED ADULT VEHICLES (THREE OR MORE WHEELS),4_ambiguous,ambiguous,Cycling,TRUE,TRUE,271,15,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3260,"FENCING (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Other sport/recreation,TRUE,TRUE,188,11,16,deliberate sport or exercise participation,CONFIRMED
+3291,"DARTS, NOT OTHERWISE SPECIFIED (N.O.S.)",4_ambiguous,ambiguous,Other sport/recreation,FALSE,TRUE,155,14,16,active recreation; participation intent ambiguous,CONFIRMED
+3252,SLEEPING BAGS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,153,8,16,Excluded: camping equipment,CONFIRMED
+1283,"UNICYCLES, UNPOWERED OR UNSPECIFIED",4_ambiguous,ambiguous,Cycling,TRUE,TRUE,151,11,16,Core: sporting or skating activity (informal play included),CONFIRMED
+1271,BATONS,4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,147,5,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3289,"DARTS, FOR INDOOR USE (ACTIVITY OR EQUIPMENT)",4_ambiguous,ambiguous,Other sport/recreation,FALSE,TRUE,133,14,16,active recreation; participation intent ambiguous,CONFIRMED
+5001,OTHER TOY WEAPONS (PROJECTILE),4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,123,6,16,Excluded: toy weapon,CONFIRMED
+3203,"SKEET SHOOTING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Skeet shooting,TRUE,TRUE,121,8,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3261,"SHUFFLEBOARD (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Shuffleboard,TRUE,TRUE,113,7,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3296,ALL TERR. VEH. (MORE THAN 4 WHEELS; EXCLUSIVELY OFF-RD.,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,100,6,16,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+1208,"CROQUET (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Croquet,TRUE,TRUE,82,4,16,Core: sporting or skating activity (informal play included),CONFIRMED
+3229,ELECTRIC GRILLS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,64,3,16,"excluded: product is an object, not an activity context",CONFIRMED
+1273,TOBOGGANS,4_ambiguous,ambiguous,Snow sports,FALSE,TRUE,60,4,13,active recreation; participation intent ambiguous,CONFIRMED
+5007,"TOY WEAPONS, NOT SPECIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,28,6,9,Excluded: toy weapon,CONFIRMED
+3282,"CURLING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Curling,TRUE,TRUE,23,3,14,Core: sporting or skating activity (informal play included),CONFIRMED
+5015,"TOY CAPS, CAP TOYS OR CAP GUNS",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,23,0,10,"excluded: product is an object, not an activity context",CONFIRMED
+5013,TOY MAKE-UP KITS OR COSMETICS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,21,0,10,Excluded: pretend-play toy,CONFIRMED
+3290,"DARTS, LAWN (ACTIVITY OR EQUIPMENT)",4_ambiguous,ambiguous,Other sport/recreation,FALSE,TRUE,20,3,12,active recreation; participation intent ambiguous,CONFIRMED
+3230,KEROSENE GRILLS OR STOVES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,17,1,11,"excluded: product is an object, not an activity context",CONFIRMED
+1274,SNOW DISKS,4_ambiguous,ambiguous,Snow sports,FALSE,TRUE,12,0,9,active recreation; participation intent ambiguous,CONFIRMED
+5038,PERSONAL FITNESS/ACTIVITY TRACKERS,2_exercise_fitness,exercise,Track and field,FALSE,FALSE,11,0,7,"Excluded: wearable device, not an activity",CONFIRMED
+3247,"ICE OR SNOW BOATING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Snow sports,FALSE,TRUE,9,0,7,active recreation; participation intent ambiguous,CONFIRMED
+1202,BICYCLES OR ACCESSORIES,4_ambiguous,ambiguous,Cycling,FALSE,TRUE,0,0,0,Extended only: product code cannot distinguish transport from recreation,CONFIRMED
+1204,"BASEBALL, ACTIVITY AND RELATED EQUIPMENT",1_sport,sport,Baseball/softball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+1232,ELECTRIC CHARCOAL LIGHTERS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: not an activity,CONFIRMED
+1246,WADING POOLS,4_ambiguous,ambiguous,Swimming/diving,FALSE,TRUE,0,0,0,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+1247,FUEL CHARCOAL LIGHTERS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: not an activity,CONFIRMED
+1248,"DARTS (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Other sport/recreation,FALSE,TRUE,0,0,0,active recreation; participation intent ambiguous,CONFIRMED
+1255,ALCOHOL-FUELED HEATERS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: not an activity,CONFIRMED
+1268,"TRACK AND FIELD (ACTIVITY, APPAREL OR EQUIPMENT)",2_exercise_fitness,exercise,Track and field,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+1285,"CHARCOAL LIGHTERS, NOT SPECIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: not an activity,CONFIRMED
+3211,GROUND WATER SLIDES,4_ambiguous,ambiguous,Playground equipment,FALSE,TRUE,0,0,0,"Extended only: childhood recreation, broadens scope beyond sport",CONFIRMED
+3214,CAMPING EQUIPMENT,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: camping equipment,CONFIRMED
+3220,"VOLLEYBALL (ACTIVITY, APPAREL OR EQUIPMENT), N.S.",1_sport,sport,Volleyball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3224,OTHER GUNS OR FIREARMS,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,"excluded: product is an object, not an activity context",CONFIRMED
+3225,"ORGANIZED SOCCER (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Soccer,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3226,"BASKETBALL (ACTIVITY, APPAREL OR EQUIPMENT), N.S.",1_sport,sport,Basketball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3227,"INFORMAL FOOTBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Football,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3228,"ORGANIZED BASEBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Baseball/softball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3231,"GYMNASTICS (ACTIVITY, APPAREL OR EQUIPMENT), N.S.",4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3237,"ORGANIZED GYMNASTICS (ACTIVITY, APPAREL OR EQUIP.)",4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3240,"INFORMAL BASEBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Baseball/softball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3241,"INFORMAL SOCCER (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Soccer,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3242,"ORGANIZED BASKETBALL (ACTIVITY, APPAREL OR EQUIP.)",1_sport,sport,Basketball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3243,"ORGANIZED VOLLEYBALL (ACTIVITY, APPAREL OR EQUIP.)",1_sport,sport,Volleyball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3244,"FOOTBALL (ACTIVITY, APPAREL OR EQUIPMENT), N.S.",1_sport,sport,Football,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3253,"GUNS, NOT SPECIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,"excluded: product is an object, not an activity context",CONFIRMED
+3258,MINIBIKES OR TRAIL BIKES,4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+3263,"INFORMAL GYMNASTICS (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Gymnastics/cheerleading,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3267,"INFORMAL BASKETBALL (ACTIVITY, APPAREL OR EQUIP.)",1_sport,sport,Basketball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3268,"INFORMAL VOLLEYBALL (ACTIVITY, APPAREL OR EQUIP.)",1_sport,sport,Volleyball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3269,"ORGANIZED FOOTBALL (ACTIVITY, APPAREL OR EQUIPMENT)",1_sport,sport,Football,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3270,"BASEBALL (ACTIVITY, APPAREL OR EQUIP.), NOT SPECIFIED",1_sport,sport,Baseball/softball,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3271,"SOCCER (ACTIVITY, APPAREL OR EQUIPMENT), NOT SPECIFIED",1_sport,sport,Soccer,TRUE,TRUE,0,0,0,deliberate sport or exercise participation,CONFIRMED
+3292,"PERSONAL WATERCRAFT, POWERED",4_ambiguous,ambiguous,Water sports,FALSE,FALSE,0,0,0,"excluded: motorised recreation, not sport or exercise participation",CONFIRMED
+3298,"BOATS AND BOATING (ACTIVITY, APPAREL OR EQUIPMENT)",4_ambiguous,ambiguous,Water sports,FALSE,TRUE,0,0,0,"Extended only: active recreation, participation intent ambiguous",CONFIRMED
+5004,"TOYS, NOT ELSEWHERE CLASSIFIED",4_ambiguous,ambiguous,Other sport/recreation,FALSE,FALSE,0,0,0,Excluded: unspecified toy,CONFIRMED

@@ -1,0 +1,2 @@
+# Match the analysis runtime used on 2026-09-12 (Python 3.12.14).
+-r requirements-executed.txt

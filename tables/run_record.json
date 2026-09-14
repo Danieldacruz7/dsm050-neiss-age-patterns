@@ -1,0 +1,40 @@
+{
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.1",
+    "scipy": "1.18.1"
+  },
+  "pipeline_version": "2026-09-13-age-validation-2",
+  "study_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "core_n": 659637,
+  "extended_n": 978847,
+  "figures_written_this_run": [
+    "figure_01_annual_volume.png",
+    "figure_02_lifespan.png",
+    "figure_03_anatomy.png",
+    "figure_04_diagnosis.png",
+    "figure_05a_activity_profiles.png",
+    "figure_05b_activity_profiles.png",
+    "figure_06_activity_clusters.png",
+    "figure_07_disposition.png"
+  ],
+  "clustering": {
+    "included_activities": 10,
+    "figure_created": true,
+    "pairwise_agreement": 0.7777777777777778,
+    "k": 4
+  }
+}

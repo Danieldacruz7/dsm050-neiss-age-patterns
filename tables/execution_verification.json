@@ -1,0 +1,19 @@
+{
+  "verified_at_utc": "2026-09-14T06:55:32.984755+00:00",
+  "all_python_cells_passed": true,
+  "python_cell_count": 19,
+  "inline_figures": 10,
+  "raw_eda_cells": 5,
+  "raw_eda_before_cleaning_verified": true,
+  "prepared_data_mode": true,
+  "notebook_sha256": "b044a6ac2442997e4d916b6d42ee664e780ea3a56a2565c26670b774799c5095",
+  "current_report_checks": {
+    "official_counter_current": true,
+    "word_count": 3485,
+    "pdf_count_current": true,
+    "figures_review_current": true
+  },
+  "execution_status_sha256": "6c6fad0efed4bed75cc5515f6c822cbe1408c2deb9822d434d025eb4a1bbcfb3",
+  "validation_record_sha256": "28b599b85a37d6be65703c4cfb5e9e19e5356b6842b487563610d735b125d338",
+  "author_and_publication_requirements_complete": false
+}

@@ -1,0 +1,4 @@
+lower,upper,label,rationale
+0,18,0-17,Broad age composition for exploratory clustering; not an exposure or risk denominator
+18,45,18-44,Broad adult age composition to reduce sparse feature cells
+45,130,45+,Open upper age group; represents proportion of presentations rather than density per year of age
