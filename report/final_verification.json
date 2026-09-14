@@ -19,10 +19,9 @@
   "report_docx_sha256": "eaffc6e086c7c01ae897a7f19e8ed3bfa4767d8b5acac677bc9a7f1e9d0346c5",
   "report_pdf_sha256": "2ce3fd60d95978b0be7bc134cee5b0c41bd979c1e640d4463c575d36b3d64f8b",
   "repository_created": true,
-  "files_uploaded": false,
+  "files_uploaded": true,
   "different_from_coursework_1_confirmed": true,
   "remaining": [
-    "Publication, exact published-data link and marker access",
     "Author final review and submission"
   ],
   "editable_body_tables": 3,
@@ -31,5 +30,7 @@
   "reference_list_starts_new_page": true,
   "cover_reference": "https://github.com/Danieldacruz7/dsm050-data-visualisation-midterm/blob/main/report/DSM050_report.pdf",
   "report_embedded_raw_eda_figures": 2,
-  "report_total_embedded_figures": 10
+  "report_total_embedded_figures": 10,
+  "public_downloads_verified": true,
+  "published_data_url": "https://github.com/Danieldacruz7/dsm050-neiss-age-patterns/tree/main/data/analysis"
 }
