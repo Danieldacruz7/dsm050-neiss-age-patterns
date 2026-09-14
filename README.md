@@ -5,7 +5,7 @@ The analysis describes emergency department presentations and their composition,
 
 ## Submission contents
 
-- `report/DSM050_Final_Report_Daniel_da_Cruz.pdf`: final report, 3,485 main-body words.
+- `report/DSM050_Final_Report_Daniel_da_Cruz.pdf`: final report, 3,478 main-body words.
 - `notebooks/DSM050_Final_Project.ipynb`: sequential exploration, cleaning, analysis and interpretation, with saved outputs.
 - `data/analysis/`: ten prepared annual datasets, hospital roster and build metadata.
 - `data/dictionaries/`: official code labels and declared classifications.
